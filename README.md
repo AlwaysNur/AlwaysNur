@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @AlwaysNur
+  # Hi
+- I’m [@AlwaysNur](https://github.com/AlwaysNur/)
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning web dev
-- 📫 How to reach me nursplace.dev
+- 📫 How to reach me [Nur's Place](https://nursplace.dev)
 
 
 <!---
