@@ -1,11 +1,37 @@
-  # Hi
-- I’m [@AlwaysNur](https://github.com/AlwaysNur/)
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning web dev
-- 📫 How to reach me [Nur's Place](https://nursplace.dev)
-- I'm currently working on [Nur's CSS](https://github.com/AlwaysNur/Nurs-CSS)
+# Hi I Am AlwaysNur
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlwaysNur&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+</div>
 
-<!---
-AlwaysNur/AlwaysNur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlwaysNur&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=true&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=AlwaysNur&locale=en&mode=daily&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+## Skills
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=codepen" height="40" alt="codepen logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=godot" height="40" alt="godot logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+</div>
+
+###
