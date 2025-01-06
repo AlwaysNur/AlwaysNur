@@ -45,6 +45,8 @@
   <img src="https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff" height="40" alt="pycharm logo"  />
   <img width="12" />
   <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white" height="40" alt="VS Code logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white" height="40" alt="go logo"/>
 </div>
 
 ###
