@@ -1,14 +1,14 @@
 # Hi, I Am AlwaysNur
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlwaysNur&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlwaysNur&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=catppuccin_mocha&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
 </div>
 
 ###
 
 <div align="left">
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=AlwaysNur&theme=aura_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlwaysNur&theme=aura_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150" alt="streak graph"  /> </a>
-  <img src="https://streak-stats.demolab.com?user=AlwaysNur&locale=en&mode=daily&theme=aura_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=AlwaysNur&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true&layout=compact"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlwaysNur&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150" alt="streak graph"  /> </a>
+  <img src="https://streak-stats.demolab.com?user=AlwaysNur&locale=en&mode=daily&theme=catppuccin_mocha&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   
 </div>
 
