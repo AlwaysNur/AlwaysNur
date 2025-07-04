@@ -34,9 +34,6 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0" height="40" alt="ubuntu logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Scratch-4D97FF?logo=scratch&logoColor=fff" height="40" alt="scratch logo"  />
-<!--   <img width="12" />
-  <img src="#" height="40" alt="scratch logo"  /> -->
   <img width="12" />
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" height="40" alt="github logo"  />
   <img width="12" />
