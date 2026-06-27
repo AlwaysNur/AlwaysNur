@@ -8,9 +8,7 @@ I'm a full-stack web developer, catppuccin enjoyer, and Python programmer.
 ### 🌱 Projects
 
 - [Bookbank](https://github.com/alwaysnur/bookbank): 🎧 The self-hosted audiobook and podcast media server solution
-
 - [Baranav](https://github.com/AlwaysNur/baranav): 🔎 The all-in-one Search Bar, Application Launcher, and much, much more!
-
 - [Startpage](https://github.com/AlwaysNur/startpage): A nice little startpage for your needs
 ---
 
