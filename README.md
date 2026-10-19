@@ -1,7 +1,7 @@
 ## Hi 👋, I'm AlwaysNur
 
-Call me _Nur_.  
-I'm a full-stack web developer, catppuccin enjoyer, and Python programmer.
+Call me Nur.  
+I'm a full-stack web developer, Catppuccin enjoyer, and Python Developer.
 
 ---
 
